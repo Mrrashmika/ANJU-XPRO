@@ -23,12 +23,12 @@
 //  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Janith Rashmika.
 //*
 //*
-//Base by Janith Rashmika
-//GitHub: @Mrrashmika
-//WhatsApp: +94717775628
+//Base by peksha rasanjana
+//GitHub: @𝐏ⓞ𝐃𝐈𝐘𝐀-𝗫𝗥
+//WhatsApp: +94758775628
 //Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
-//   * Created By GitHub: Mrrashmika
-//   * Credit To Janith Rashmika
+//   * Created By GitHub: 𝐏ⓞ𝐃𝐈𝐘𝐀-𝗫𝗥
+//   * Credit To peksha rasanjana
 //   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
 // ⛥┌┤
 // */
@@ -40,8 +40,8 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Your session id here",
+SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~aEFD2Sab#YfQnBH2d6Jx3QgmuT1eSuTcyh3JCG3ZedhBm7nWRdpI",
 SUDO: process.env.SUDO || ["94717775628","94758775628"],
 PORT: process.env.PORT || "8000",
-FOOTER: process.env.FOOTER || "> QUEEN ANJU XPRO\n> Developed by Mr. Rashmika\n> GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 QUEEN ANJU XPRO. All rights reserved.",
+FOOTER: process.env.FOOTER || "> PODIYA-XR @PRO\n> Developed by Mr. Peksha\n> GitHub Repository: https://github.com/peksharasanjana/PODIYA-XR-\n💃 Premium Version | Advanced Features | Secure & Reliable💫\n© 2025 𝐏ⓞ𝐃𝐈𝐘𝐀-𝗫𝗥 @𝗣𝗥𝗢. All rights reserved.\n💃Our whatsapp channel: https://whatsapp.com/channel/0029Vaf6ZWsHrDZhvE0FZZ0S",
 };
